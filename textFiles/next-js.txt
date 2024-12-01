@@ -1,0 +1,32 @@
+---------------------------- BASIC OF NEXT JS -------------
+
+1. It's and server side rendering framework of react version.
+
+2. it has soe features like router , typescript
+
+3. there is two router in next s app and pages router , app is used for larger applications
+
+4. pages router are used in static webpage routers
+
+-------------------- Creating next js project -------------
+
+1. npx create-next-app@latest dir-name
+
+2. we can use jsx or tsx for the next app
+
+-------------------------- Structure of NEXT APP ----------
+
+1. /.next --> it hsa all the next js files for perfomance and config files
+
+2. /src/app --> in this folder we arite code an create files
+
+3. /public --> not need  , we can create a static files in this folder
+
+4. eslintrc.json --> for resolve the js code an indicates the error
+
+5. next-env.d.ts --> configuration of the next ts config
+
+6. next.config.js  --> next js configuration files
+
+7. ts.config.json --> for ts config
+

@@ -1,0 +1,19 @@
+---------------------------- ROUTING ---------------
+
+1. next is based on routing , it uses app or page routing  , 
+
+2. in app/page.tsx is the index for the next js app
+
+3. while creating the router we need to use the same url name for the dir-name in next-js
+
+4. Each router should contain page.tsx or jsx file
+
+5. next-js routing is based on  the directory , route name and the directory name should be same
+
+6. each app router page.jsx is index file
+
+--------------------- Routing Segments ------------
+
+1. Routing Segments emad nested routes /r1/r2 like that...
+
+2. we need to create a nested folder structure for the path ./r1/r2/page.tsx

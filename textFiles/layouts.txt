@@ -1,0 +1,14 @@
+------------------------ LAYOUT ------------
+
+1. layout means when we use the repeated UI structure we put them into layout
+
+2. in nextjs we use layout feature in layout.js or ts file 
+
+3. it and normal component 
+SYNTAX :
+  Layout({children}){ <layout>{children}}
+
+4. we can create layout each route we can create an layout
+
+5. layout brings the previous or root layout components 
+
