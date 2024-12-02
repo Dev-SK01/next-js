@@ -1,0 +1,7 @@
+----------------------- USE ROUTER HOOK ----------
+
+1. useRouter is used to navigate pages using the code .
+
+2. import useRouter from 'next/navigation'
+
+3. const router = useRouter() --> it gives object with functions.

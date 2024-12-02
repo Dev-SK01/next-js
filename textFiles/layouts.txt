@@ -6,9 +6,9 @@
 
 3. it and normal component 
 SYNTAX :
-  Layout({children}){ <layout>{children}}
+  Layout({children}){ <layout>{children}<layout/>}
 
-4. we can create layout each route we can create an layout
+4. we can create layout each route 
 
 5. layout brings the previous or root layout components 
 

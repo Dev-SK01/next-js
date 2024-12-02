@@ -17,3 +17,20 @@
 1. Routing Segments emad nested routes /r1/r2 like that...
 
 2. we need to create a nested folder structure for the path ./r1/r2/page.tsx
+
+--------------------- Dynamic Routing --------
+
+1. if the route url is changing we use dynamic routing.
+
+2. creat folder in the base url in sub folder use [url-variable].
+
+3. create page.tsx and create component. next give us params object when we creat folder like this.
+
+4. in this params object we can acess the url value params.url-variable.
+
+
+---------------- Dynamic Multiple Segments ---------
+
+1. for that we use [...url-var] --> it mentions all the folders are dynamic route.
+
+2. here we can acess the value by the index , it an array of  values

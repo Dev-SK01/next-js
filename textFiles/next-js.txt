@@ -18,11 +18,11 @@
 
 1. /.next --> it hsa all the next js files for perfomance and config files
 
-2. /src/app --> in this folder we arite code an create files
+2. /src/app --> in this folder we write code an create files
 
 3. /public --> not need  , we can create a static files in this folder
 
-4. eslintrc.json --> for resolve the js code an indicates the error
+4. eslintrc.json --> for resolve errors in  js code an indicates the error
 
 5. next-env.d.ts --> configuration of the next ts config
 

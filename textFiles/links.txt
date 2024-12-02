@@ -1,0 +1,5 @@
+--------------------- NEXT LINK -----------
+
+1. we can link  the pages using next/link component
+
+2. if we use traditional anchor it refresh the page  ,it wil lead to horror state-management

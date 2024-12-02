@@ -1,0 +1,9 @@
+---------------------- COMPONENTS ---------
+
+1. next has server and client components
+
+2. we neeed to specify the components type in next js 
+
+3. default is server components
+
+4. to specify client components declare  "use client" in top of the file.
