@@ -1,0 +1,22 @@
+------------------------------ ROUTE HANDLERS ------------
+
+1. route handlers are use to create an api for the next s app.
+
+2. In application we need to handle the API requests. for that we create a folder and
+   folder are the api endpoint in next-js , we create a js  , and we export the function name GET()
+   
+3. The API methods we cannot change  , to send respones use next js Response object.
+
+SYNTAX : 
+
+export async function GET(){
+    return new Response('data') || Response.json({});
+}
+
+------------------ Query Param || Request Data -----------
+
+1. we get the  req obj in request , in that req we can access the query data from client.
+
+2. req.nextUrl.searchParams.get('name-of-query')
+
+3. for BODY request --> req.json() , for json BODY DATA , its an promise
